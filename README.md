@@ -9,4 +9,4 @@ In this repository, the noebook contains, several worked out examples of Hypothe
 Hope this helps. 
 
 
-This repository contains different statistical tools for Hypothesis testing 
+This repository contains different statistical methods for Hypothesis testing. 
